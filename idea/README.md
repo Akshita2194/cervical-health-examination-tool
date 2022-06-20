@@ -1,4 +1,4 @@
-<h2><b>Cervisense - Cervical Health Examination and Cancer Screening tool</b></h2>
+<h2><b>Cervical Health Examination and Cancer Screening tool</b></h2>
 
 <b>Project Brief:</b><br>
 Cervisense is being developed with the vision to empower each and every individual with enhanced, affordable and accessible Cervical Cancer Care using engineering, design and technology. With Cervisense, our current focus is to save the lives of these women by democratizing Cervical Cancer Screening and empowering Rural and Urban Healthcare systems to undertake mass screening (under WHO’s Cervical cancer elimination strategy launched in Nov 2020) through Point-of-care diagnosis that offers enhanced visualization, real-time results and aids timely screening and treatment for cervical cancer.  
